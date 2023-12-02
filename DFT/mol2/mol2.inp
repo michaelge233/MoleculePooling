@@ -1,0 +1,6 @@
+! B3LYP 6-31G(d) 
+
+%PAL NPROCS 24 END
+
+* xyzfile 0 1 input.xyz
+
