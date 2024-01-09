@@ -8,7 +8,7 @@ cluster matrix are evaluated on molecular orbital prediction tasks. RingPool, pr
 Surprisingly, the global sum pool has the best performance in light of the quantum
 chemical nature alignment in such tasks. These result highlights the the importance of develop physics-informed models in AI for Science.
 
-Detailed result can be from at [Report.pdf](https://github.com/michaelge233/MoleculePooling/blob/main/Report.pdf) 
+Detailed result can be found at [Report.pdf](https://github.com/michaelge233/MoleculePooling/blob/main/Report.pdf) 
 
 ### Requirments
 The exact requirments for the experiment in project report are listed in requirments.txt
