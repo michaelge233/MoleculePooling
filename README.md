@@ -1,6 +1,15 @@
 # MoleculePooling
 Final project code of CPSC 583 Deep Learning on Graph-Structured Data.
 
+### Abstract
+Pooling method in graph neural networks (GNN) is crucial for graph level tasks including quantum chemical property prediction. In this work, 4 pooling approaches
+ranging from global pooling to hierarchical pooling with learned or precomputed
+cluster matrix are evaluated on molecular orbital prediction tasks. RingPool, proposed in this work for the first time, showed a comparable performance to DiffPool.
+Surprisingly, the global sum pool has the best performance in light of the quantum
+chemical nature alignment in such tasks. These result highlights the the importance of develop physics-informed models in AI for Science.
+
+Detailed result can be from at [Report.pdf](https://github.com/michaelge233/MoleculePooling/blob/main/Report.pdf) 
+
 ### Requirments
 The exact requirments for the experiment in project report are listed in requirments.txt
 
